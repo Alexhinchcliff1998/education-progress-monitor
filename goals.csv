@@ -1,0 +1,5 @@
+learner,skill,target_percent,required_trials,window
+DEMO-01,Letter sounds,80,3,4
+DEMO-01,Addition within 10,80,3,4
+DEMO-02,Word decoding,80,3,4
+DEMO-03,Number identification,90,3,4
